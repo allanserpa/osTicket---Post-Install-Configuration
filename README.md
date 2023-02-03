@@ -62,3 +62,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br>Admin Panel -> Agents -> Add New
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/QTpaW5s.png"/>
+</p>
+<p>
+  <b>Configure Users:</b>
+<br>Agent Panel -> Users -> Add New
+</p>
+<br />
