@@ -71,3 +71,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br>Agent Panel -> Users -> Add New
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/nsOsUqj.png"/>
+</p>
+<p>
+  <b>Configure SLA:</b>
+<br>Admin Panel -> Manage -> SLA
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/B1G5p7Q.png"/>
+</p>
+<p>
+  <b>Configure Help Topics:</b>
+<br>Admin Panel -> Manage -> Help Topics
+</p>
+<br />
