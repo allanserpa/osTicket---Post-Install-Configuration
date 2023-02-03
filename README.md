@@ -33,7 +33,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <b>Configure Roles:</b>
 <br>Admin Panel -> Agents -> Roles
-
 </p>
 <br />
 
@@ -43,7 +42,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <b>Configure Departments:</b>
 <br>Admin Panel -> Agents -> Departments
-
 </p>
 <br />
 
@@ -53,6 +51,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   <b>Configure Teams:</b>
 <br>Admin Panel -> Agents -> Teams
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/LRLszN2.png"/>
+</p>
+<p>
+  <b>Configure Agents:</b>
+<br>Admin Panel -> Agents -> Add New
 </p>
 <br />
