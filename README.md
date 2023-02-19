@@ -28,7 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/hk4BF0e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vv6NTmr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <b>Configure Roles:</b>
@@ -37,7 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/bv0spPa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/t7RU4EK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <b>Configure Departments:</b>
@@ -46,7 +46,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/HDgomQm.png"/>
+<img src="https://i.imgur.com/M4ZP4II.png"/>
 </p>
 <p>
   <b>Configure Teams:</b>
@@ -55,7 +55,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/LRLszN2.png"/>
+<img src="https://i.imgur.com/jKrH2lL.png"/>
 </p>
 <p>
   <b>Configure Agents:</b>
@@ -64,7 +64,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/QTpaW5s.png"/>
+<img src="https://i.imgur.com/adHk44k.png"/>
 </p>
 <p>
   <b>Configure Users:</b>
@@ -73,7 +73,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/nsOsUqj.png"/>
+<img src="https://i.imgur.com/UkMYF0Z.png"/>
 </p>
 <p>
   <b>Configure SLA:</b>
@@ -82,7 +82,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/B1G5p7Q.png"/>
+<img src="https://i.imgur.com/rV5fK1T.png"/>
 </p>
 <p>
   <b>Configure Help Topics:</b>
